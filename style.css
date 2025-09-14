@@ -1,0 +1,36 @@
+/* Header styling */
+header {
+  background-color: #acefa5c8;
+  color: #4b9443;
+  text-align: center;
+  padding: 2rem 2rem 1rem 2rem;
+}
+
+header h1 {
+  margin: -0.5rem;
+  font-size: 2.5rem;
+}
+
+header h2 {
+  font-weight: normal;
+  color: #4b9443;
+}
+
+header a {
+    text-decoration: none;
+    font-size: 0.9rem;
+    color: #0066cc;
+}
+
+header ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  font-size: 0.9rem;
+  background-color: #d3eed0a7;
+  padding: 1rem;
+}
