@@ -56,6 +56,15 @@ section h3 {
   margin-bottom: 1rem;
 }
 
+/* Responsive image */
+aside img {
+  display: block;
+  margin: 1rem auto;
+  width: 50%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
 /* Footer */
 footer {
   text-align: center;
