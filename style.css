@@ -57,7 +57,7 @@ section h3 {
 }
 
 /* Responsive image */
-aside img {
+.project-image {
   display: block;
   margin: 1rem auto;
   width: 50%;
